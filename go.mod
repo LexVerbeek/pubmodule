@@ -1,3 +1,3 @@
-module github.com/LexVerbeek/pubmodule.git
+module github.com/LexVerbeek/pubmodule
 
 go 1.19
